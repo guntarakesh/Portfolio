@@ -1,8 +1,4 @@
 
-Here’s a sample `README.md` content based on your task requirements and evaluation criteria from the images you shared:
-
----
-
 ```markdown
 # Professional Portfolio Website
 
@@ -55,8 +51,5 @@ Create a professional portfolio website to showcase the following features. This
 - JavaScript
 
 ## 📬 Contact
-Feel free to reach out through the contact form or via [your-email@example.com].
+Feel free to reach out through the contact form or via guntarakesh123@gmail.com
 
----
-
-Let me know if you want me to generate a customized version with your name or links inserted, or if you’re using any frameworks (like React, Tailwind, etc.).
